@@ -1,0 +1,16 @@
+Summary of what I have learnt in Front End Development class at Attueyi Coding Academy
+
+1. HTML (HyperText Markup Language):
+Structure of web pages.
+Tags, elements, attributes, and forms.
+
+2. CSS (Cascading Style Sheets):
+Styling web pages (colors, fonts, layouts).
+Box model, flexbox, and grid for layout design.
+Responsive design.
+
+3. JavaScript:
+Basics: Variables, data types, loops, and functions.
+DOM manipulation (selecting and modifying elements).
+Event handling (click, hover, form submission).
+
