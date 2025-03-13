@@ -14,3 +14,5 @@ Basics: Variables, data types, loops, and functions.
 DOM manipulation (selecting and modifying elements).
 Event handling (click, hover, form submission).
 
+Time management is another thing im learning at ACA
+
